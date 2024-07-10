@@ -175,7 +175,7 @@
 
 
 .third-h1{
-    font-size: 70;
+    font-size: 32px;
     font-weight: 800;
     text-align: center;
 
@@ -197,4 +197,67 @@
     border-radius: 16px;
     padding:16px;
     margin-top: 15px;
+}
+
+
+/* my-current-target section style starts here */
+
+.my-current-target-container{
+    margin:0 auto;
+    width:1140px;
+    height: 460px;
+    margin-top: 155px;
+}
+
+#fourth-h1{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+
+}
+
+#fifth-p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    opacity: 0.7;
+}
+
+.my-current-target-elements{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:0 auto ;
+    gap:24px;
+}
+
+.my-current-target-elements-1{
+    width:364px;
+    height: 240px;
+    background-color:azure;
+    border: 0 solid white;
+    border-radius: 16px;
+    padding:40px;
+}
+
+
+.my-current-target-elements-2{
+    width:364px;
+    height: 240px;
+    background-color: rgba(0, 76, 232, 0.05);
+    border: 1px solid white;
+    border-radius: 16px;
+    padding:40px;
+}
+
+
+.my-current-target-elements-3{
+    width:364px;
+    height: 240px;
+    background-color: rgba(255, 223, 0, 0.05);
+    border: 0 solid white;
+    border-radius: 16px;
+    padding:40px;
 }
