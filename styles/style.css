@@ -52,3 +52,102 @@
     border-radius: 8px;
 
 }
+
+/* web-development-section style starts here */
+
+.web-development {     
+    width:1140px;
+    height: 1395px;
+    margin: 0 auto;
+    padding: 80px 97px;
+    margin-top: 120px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.web-development-container{
+
+}
+
+.web-development-1{
+
+}
+
+#second-h1{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+}
+
+#second-p{
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    opacity:0.7;
+}
+
+.web-development-2{
+    background-color:aliceblue ;
+    width: 946px;
+    height: 336px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 35px;
+    padding:48px;
+
+}
+
+.do-coding-1{
+    
+    
+}
+
+.first-h3{
+    font-size:25px ;
+    font-weight: 600;
+}
+
+.third-p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+}
+
+.btn-1{
+    width:150px;
+    height: 48px;
+    font-size: medium;
+    font-weight: 400;
+    margin-top: 100px;
+}
+
+.web-development-3{
+    background-color:aliceblue;
+    width: 946px;
+    height: 336px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 35px;
+    padding:48px;
+
+}
+
+
+.web-development-4{
+    background-color:aliceblue;
+    width: 946px;
+    height: 336px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 35px;
+    padding:48px;
+}
