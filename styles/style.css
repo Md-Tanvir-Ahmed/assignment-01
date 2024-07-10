@@ -151,3 +151,50 @@
     margin-top: 35px;
     padding:48px;
 }
+
+
+/* my-inspiration section style starts here */
+
+.my-inspiration-container{
+    width: 1250px;
+    height: 800px;
+    margin:0 auto;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top:88px;
+}
+
+.my-inspiration-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.third-h1{
+    font-size: 70;
+    font-weight: 800;
+    text-align: center;
+
+}
+
+.fourth-p{
+    color:rgb(13, 19, 33);
+    font-size: 20px;
+    font: 400;
+    text-align: center;
+    opacity: 0.7;
+    
+}
+
+.my-inspiration-youtube-link{
+    width:1140px;
+    height:604px;
+    border:2px solid  rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    padding:16px;
+    margin-top: 15px;
+}
